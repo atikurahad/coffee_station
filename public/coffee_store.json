@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "FREAKSHAKE",
+    "img": "https://assets.lybrate.com/q_auto:eco,f_auto,w_1200,h_720,c_fill,g_auto/imgs/product/health-wiki/bpages/Benefits-Of-Coffee.jpg ",
+    "price": 5.2,
+    "details": "Coffee bean comes from france.",
+    "ratings": 4.8
+  },
+  {
+    "id": 2,
+    "name": "FRAPPÉ",
+    "img": "https://www.tastingtable.com/img/gallery/coffee-brands-ranked-from-worst-to-best/l-intro-1645231221.jpg ",
+    "price": 2.54,
+    "details": "We make your mind extra refine",
+    "ratings": 3.5
+  },
+  {
+    "id": 3,
+    "name": "RISTRETTO",
+    "img": "https://media.istockphoto.com/photos/cup-glass-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-picture-id1303583671?b=1&k=20&m=1303583671&s=170667a&w=0&h=Nq5aWss-PVbEm5jDIa0nTf35qsxQH8znqtX9MAU5__A= ",
+    "price": 50,
+    "details": "This is raw coffee.",
+    "ratings": 4.5
+  },
+  {
+    "id": 4,
+    "name": "AFFOGATO",
+    "img": " https://www.kidney.org/sites/default/files/styles/newsletter_article_image__scale_width_to_630px_/public/Coffee_LYK.jpg?itok=4Gs80_ii",
+    "price": 2.2,
+    "details": "Coffe can make you chill",
+    "ratings": 5.0
+  },
+  {
+    "id": 5,
+    "name": "AMERICANO",
+    "img": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/ways-to-make-coffee-super-healthy-1296x728-feature.jpg ",
+    "price": 7.21,
+    "details": "Thril the coffee feel",
+    "ratings": 3.9
+  },
+  {
+    "id": 6,
+    "name": "CON PANNA",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI2klOC8ClLZVwyxD7hN-KbX5Nh-Og_w6A&usqp=CAU ",
+    "price": 9.99,
+    "details": "",
+    "ratings": 2.8
+  },
+  {
+    "id": 7,
+    "name": "ESPRESSO MACCHIATO",
+    "img": " http://pediaa.com/wp-content/uploads/2016/05/Difference-Between-Latte-and-Cappuccino-image-2.jpg",
+    "price": 50,
+    "details": "",
+    "ratings": 4.8
+  },
+  {
+    "id": 8,
+    "name": "FULL LOVE",
+    "img": "https://clubcoffee.com/framework/uploads/2019/01/bean-heart.jpg ",
+    "price": 50,
+    "details": "",
+    "ratings": 4.1
+  },
+  {
+    "id": 9,
+    "name": "BLACK HEAVEN",
+    "img": "https://images.immediate.co.uk/production/volatile/sites/30/2017/07/GettyImages-1204189958-fb4b98b.jpg ",
+    "price": 50,
+    "details": "",
+    "ratings": 5.0
+  },
+  {
+    "id": 10,
+    "name": "CAFFÈ LATTE",
+    "img": " https://www.baristainstitute.com/sites/default/files/styles/1x_large_latest_teaser/public/images/header_1.jpg?itok=QhoUIAaD",
+    "price": 50,
+    "details": "",
+    "ratings": 4.5
+  },
+  {
+    "id": 11,
+    "name": "CAFFÈ MOCHA",
+    "img": " https://i.guim.co.uk/img/media/16fff9b8e9aec0d3f8add5b05d24ef8d21e23637/0_0_8164_4898/master/8164.jpg?width=700&quality=85&auto=format&fit=max&s=d63a9d36d48aeffae56ce2e8e10423b8",
+    "price": 50,
+    "details": "",
+    "ratings": 3.2
+  },
+  {
+    "id": 12,
+    "name": "CAFÈ AU LAIT",
+    "img": "https://www.giverecipe.com/wp-content/uploads/2019/04/how-to-make-traditional-Turkish-coffee.jpg ",
+    "price": 50,
+    "details": "",
+    "ratings": 5.0
+  },
+  {
+    "id": 13,
+    "name": "CAPPUCCINO",
+    "img": "https://www.mashed.com/img/gallery/coffee-mistakes-youre-probably-making-at-home/intro-1594766282.jpg ",
+    "price": 50,
+    "details": "",
+    "ratings": 4.0
+  },
+  {
+    "id": 14,
+    "name": "COLD BREW COFFEE",
+    "img": " https://cupffee.me/wp-content/uploads/2021/08/Homepage_Cupffee-Lavazz.jpg",
+    "price": 50,
+    "details": "",
+    "ratings": 5.0
+  },
+  {
+    "id": 15,
+    "name": "DOUBLE ESPRESSO ",
+    "img": "https://www.seriouseats.com/thmb/UCUINYCe3oC3p0EHS_d9NpmS4B4=/735x0/__opt__aboutcom__coeus__resources__content_migration__serious_eats__drinks.seriouseats.com__images__2013__05__051513-coffee-cafe-allonge-866317ebbcb943f990b492a5cdd7783b.jpg ",
+    "price": 50,
+    "details": "",
+    "ratings": 4.1
+  }
+]

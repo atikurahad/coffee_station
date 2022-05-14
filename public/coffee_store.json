@@ -44,79 +44,79 @@
     "name": "CON PANNA",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI2klOC8ClLZVwyxD7hN-KbX5Nh-Og_w6A&usqp=CAU ",
     "price": 9.99,
-    "details": "",
+    "details": "Large studies and meta-analyses of research involving coffee ",
     "ratings": 2.8
   },
   {
     "id": 7,
     "name": "ESPRESSO MACCHIATO",
     "img": " http://pediaa.com/wp-content/uploads/2016/05/Difference-Between-Latte-and-Cappuccino-image-2.jpg",
-    "price": 50,
-    "details": "",
+    "price": 11.3,
+    "details": "Consuming the same amount of coffee daily seems to lower the risk of depression as well.",
     "ratings": 4.8
   },
   {
     "id": 8,
     "name": "FULL LOVE",
     "img": "https://clubcoffee.com/framework/uploads/2019/01/bean-heart.jpg ",
-    "price": 50,
-    "details": "",
+    "price": 10.12,
+    "details": "Participants in one study who drank three cups of coffee per day apparently lowered their risk of liver cancer.",
     "ratings": 4.1
   },
   {
     "id": 9,
     "name": "BLACK HEAVEN",
     "img": "https://images.immediate.co.uk/production/volatile/sites/30/2017/07/GettyImages-1204189958-fb4b98b.jpg ",
-    "price": 50,
-    "details": "",
+    "price": 5.5,
+    "details": "Research also indicates that the risk of other types of liver disease is also lower in coffee drinkers.",
     "ratings": 5.0
   },
   {
     "id": 10,
     "name": "CAFFÈ LATTE",
     "img": " https://www.baristainstitute.com/sites/default/files/styles/1x_large_latest_teaser/public/images/header_1.jpg?itok=QhoUIAaD",
-    "price": 50,
-    "details": "",
+    "price": 4.8,
+    "details": "Parkinson’s disease risk seems to be dramatically lower in those who drink more than four cups of coffee a day",
     "ratings": 4.5
   },
   {
     "id": 11,
     "name": "CAFFÈ MOCHA",
     "img": " https://i.guim.co.uk/img/media/16fff9b8e9aec0d3f8add5b05d24ef8d21e23637/0_0_8164_4898/master/8164.jpg?width=700&quality=85&auto=format&fit=max&s=d63a9d36d48aeffae56ce2e8e10423b8",
-    "price": 50,
-    "details": "",
+    "price": 8.12,
+    "details": "Coffee drinking may also help sufferers control their movements. Caffeine is believed responsible for those effects.",
     "ratings": 3.2
   },
   {
     "id": 12,
     "name": "CAFÈ AU LAIT",
     "img": "https://www.giverecipe.com/wp-content/uploads/2019/04/how-to-make-traditional-Turkish-coffee.jpg ",
-    "price": 50,
-    "details": "",
+    "price": 6.76,
+    "details": "Oh, and did we mention that coffee tastes incredibly good, too.",
     "ratings": 5.0
   },
   {
     "id": 13,
     "name": "CAPPUCCINO",
     "img": "https://www.mashed.com/img/gallery/coffee-mistakes-youre-probably-making-at-home/intro-1594766282.jpg ",
-    "price": 50,
-    "details": "",
+    "price": 5.21,
+    "details": " A freshly brewed cup can always improve your mood – and what better benefit could there be",
     "ratings": 4.0
   },
   {
     "id": 14,
     "name": "COLD BREW COFFEE",
     "img": " https://cupffee.me/wp-content/uploads/2021/08/Homepage_Cupffee-Lavazz.jpg",
-    "price": 50,
-    "details": "",
+    "price": 8.9,
+    "details": "Almost every company that manufactures coffee creamer now offers zero-sugar products.",
     "ratings": 5.0
   },
   {
     "id": 15,
     "name": "DOUBLE ESPRESSO ",
     "img": "https://www.seriouseats.com/thmb/UCUINYCe3oC3p0EHS_d9NpmS4B4=/735x0/__opt__aboutcom__coeus__resources__content_migration__serious_eats__drinks.seriouseats.com__images__2013__05__051513-coffee-cafe-allonge-866317ebbcb943f990b492a5cdd7783b.jpg ",
-    "price": 50,
-    "details": "",
+    "price": 7.8,
+    "details": "Packed with over 17g of plant-based protein, this breakfast shake will have you feeling fueled without weighing you down.",
     "ratings": 4.1
   }
 ]

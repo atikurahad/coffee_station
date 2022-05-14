@@ -1,0 +1,16 @@
+
+/* *{
+  background-image: url("../../public/cofeee.jpg");
+} */
+.coffee-benefit{
+  color: rgb(27, 27, 56)
+}
+.coffee-img{
+  height:20rem;
+  width: fit-content;
+}
+.coffee{
+  color: gainsboro;
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 3px 3px black;}

@@ -1,0 +1,15 @@
+.navbar{
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  font-size: 2rem;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 5rem;
+  background: #000;
+}
+.nav-link{
+  text-decoration: none;
+    color: gold;
+  margin-right: 1.5rem;
+}

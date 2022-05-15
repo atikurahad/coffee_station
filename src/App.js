@@ -2,6 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import About from './About';
 import './App.css';
 import Contact from './Contact';
+import Foot from './Footer';
 import Home from './Home';
 import Navigation from './Navigation';
 import NotFound from './NotFound';
@@ -20,6 +21,7 @@ function App() {
         <Route path="/*" element={<NotFound />} />
       </Routes>
       {/* <Shop /> */}
+    <Foot />
     </div>
   );
 }

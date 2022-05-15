@@ -1,0 +1,12 @@
+
+.footer-link{
+  display: flex;
+  flex-direction: column;
+}
+.footer-section{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.custom-footer{
+    position: absolute;
+}

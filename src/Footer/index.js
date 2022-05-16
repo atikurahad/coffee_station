@@ -184,15 +184,7 @@ const Foot = () => {
               </div>
             </form>
           </div>
-          {/* <div className="mb-6">
-            <p>
-              The case for coffee is stronger than ever. Study after study
-              indicates you could be getting more from your favorite morning
-              beverage than you thought: Coffee is chock full of substances that
-              may help guard against conditions more common in women, including
-              Alzheimer’s disease and heart disease.
-            </p>
-          </div> */}
+
           <div className="grid lg:grid-cols-4 md:grid-cols-2">
             <div className="mb-6">
               <h5 className="uppercase font-bold mb-2.5 text-3xl">Services</h5>

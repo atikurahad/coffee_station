@@ -112,15 +112,14 @@ const Review = () => {
       </div>
 
       <div className="flex justify-center">
-        <div className="block rounded-lg shadow-lg bg-white max-w-sm text-center">
-          <div className="py-3 px-6 border-b border-gray-300">Featured</div>
+        <div className="block rounded-lg shadow-lg bg-[black] max-w-sm text-center">
+          <div className="py-3 px-6 text-[gold] font-extrabold border-b border-gray-300 bg-[black]">Review</div>
           <div className="p-6">
-            <h5 className="text-gray-900 text-xl font-medium mb-2">
-              Special title treatment
+            <h5 className="text-[gold] bg-[yellow] text-xl font-medium mb-2">
+            Kareena Kaporr
             </h5>
             <p className="text-gray-700 text-base mb-4">
-              With supporting text below as a natural lead-in to additional
-              content.
+              With supporting thjis coffee station ,This is the best coffee station in this town. The are excellent with Coffee and its flavour.
             </p>
             <ul className="flex justify-center ">
               <li>
@@ -216,16 +215,15 @@ const Review = () => {
         </div>
       </div>
 
-      <div className="flex justify-center">
-        <div className="block rounded-lg shadow-lg bg-white max-w-sm text-center">
-          <div className="py-3 px-6 border-b border-gray-300">Featured</div>
+      <div className="flex justify-center ">
+        <div className="block rounded-lg shadow-lg bg-[black] max-w-sm text-center">
+          <div className="py-3 px-6 border-b text-[gold] border-gray-300">Review</div>
           <div className="p-6">
-            <h5 className="text-gray-900 text-xl font-medium mb-2">
-              Special title treatment
+            <h5 className="bg-[yellow] text-gray-900 text-xl font-medium mb-2">
+              Salman Khan
             </h5>
-            <p className="text-gray-700 text-base mb-4">
-              With supporting text below as a natural lead-in to additional
-              content.
+            <p className=" text-[gold] text-base mb-4">
+              One of the best  coffe i had ever taste.Service and behavior are excellent. I am fully satisfied of this coffe house.
             </p>
             <ul className="flex justify-center ">
               <li>

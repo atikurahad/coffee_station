@@ -7,7 +7,7 @@ const Home = () => {
     <div>
       <h1 className="text-red-400 m-5  text-center font-extrabold text-4xl ">Welcome To Coffee Station</h1>
 
-      <p className="m-5 p-4 bg-[#EAE7DE] text-stone-900 text-2xl font-black border-2 ">
+      <p className="m-5 mb-10 p-4 bg-[#EAE7DE] text-stone-900 text-2xl font-black border-2 ">
         Coffee processing refers to the way that a seed is removed from a coffee
         cherry. Like any other pitted fruit, coffee cherries have a seed, the
         pulp, the mucilage around the seed, and a protective skin. There are

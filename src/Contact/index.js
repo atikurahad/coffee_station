@@ -4,6 +4,8 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <>
+    <h1 className="text-black text-5xl text-center m-5 font-extrabold font-serif"> We Are Always With You...</h1>
+    <p className="text-center text-[purple] text-3xl font-sans"> Stay Connected With Coffee Station</p>
       <section className="h-screen">
         <div className="container px-6 py-12 h-full">
           <div className="flex justify-center items-center flex-wrap h-full g-6 text-gray-800">

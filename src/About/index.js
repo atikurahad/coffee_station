@@ -10,15 +10,18 @@ const About = () => {
         <span className="text-3xl text-red-600 font-extralight">About Us</span>
       </h1>
       <div className=" grid grid-cols-2	">
-        <div>
+        <div className="bg-[#C7A17A]">
           <img
             src="https://i.cdn.newsbytesapp.com/images/l222_26191611543026.jpg"
             alt="coffee"
           ></img>
         </div>
-        <div>
-          <h1 className='text-6xl text-center font-extrabold text-[red]'> COFFEE STATION</h1>
-          <p>
+        <div className="bg-[#EAE7DE] ">
+          <h1 className="text-6xl mt-5 text-center font-extrabold text-[#ba7878]  textShadow">
+            {" "}
+            COFFEE STATION
+          </h1>
+          <p className="font-thin  text-[#ae1db5] font-mono m-5">
             Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil
             expetendis in mei. Mei an pericula euripidis, hinc partem ei est.
             Eos ei nisl graecis, vix aperiri consequat an. Eius lorem tincidunt

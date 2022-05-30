@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button } from 'react-daisyui';
 
 
 
@@ -12,7 +13,7 @@ const About = () => {
       <div className=" grid grid-cols-2	">
         <div className="bg-[#C7A17A]">
           <img
-            src="https://i.cdn.newsbytesapp.com/images/l222_26191611543026.jpg"
+            src="https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/preeti-jaiswani20180127013509185.jpeg"
             alt="coffee"
           ></img>
         </div>
@@ -30,6 +31,7 @@ const About = () => {
             qui purto zril laoreet. Ex error omnium interpretaris pro, alia
             illum ea vim.
           </p>
+          <Button className='text-center flex flex-auto bg-[purple] p-5'>BUY A COFFEE</Button>
         </div>
       </div>
     </>

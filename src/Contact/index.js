@@ -114,7 +114,7 @@ const Contact = () => {
         </div>
       </section>
 
-      <p> i am from Contact</p>
+      <p className=" bg-[gold] text-center m-auto h-[50px] w-[350px] text-3xl font-bold text-[crimson]"> Helpline: <span className="text-3xl text-teal-800">+821542091</span> </p>
     </>
   );
 };
